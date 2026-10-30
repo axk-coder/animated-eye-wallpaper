@@ -1,0 +1,5 @@
+map.txt
+task.md
+*.mp4
+*.tmp
+__pycache__/
