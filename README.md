@@ -1,6 +1,6 @@
 # Animated Eye Wallpaper
 
-Animated grayscale wallpaper with waving cloth displacement and periodic eye blinking.
+Procedural animated grayscale wallpaper with waving cloth displacement, eye blinking, and vertical ribbed teeth mouth morphing.
 
 ## Requirements
 
@@ -12,10 +12,12 @@ Animated grayscale wallpaper with waving cloth displacement and periodic eye bli
 
 ## Generation
 
+Run the procedural animation generator:
+
 ```bash
-python3 render_wallpaper.py
+python3 generate_wallpaper.py
 ```
 
 ## Credits
 
-- Source artwork provided by Axk.
+- Concept and reference art provided by Axk.
